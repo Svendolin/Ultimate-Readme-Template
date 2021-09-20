@@ -12,7 +12,7 @@
 => Use external sites to refer on informations you got from other web pages such as this [example](https://example.com/) here.
 
 ```bash
-example guide
+example guides
 ```
 => Listing some specific steps to guarantee a perfect guidance. 
 ```
