@@ -1,5 +1,5 @@
 # Add your Title here ✅
-
+***
 => Choose a self-explaining name for your project and add a little description
 
 => Use "Windows" + "." to add emojis to your title
@@ -10,7 +10,7 @@
 
 
 ## Installation ✅
-*** 
+ 
 => Use external sites to refer on informations you got from other web pages such as this [example](https://example.com/) here.
 
 ```bash
