@@ -5,14 +5,16 @@
 => Use "Windows" + "." to add emojis to your title
 
 => The third symbol from right on top (with a magnifier symbol) in VSC shows you the preview
-=> To generatre extra spacing: Take a look at  ((( MARKDOWN CHEATSHEET )))
+
+=> To generate extra spacing: Take a look at  ((( MARKDOWN CHEATSHEET )))
+
 
 ## Installation ✅
 *** 
 => Use external sites to refer on informations you got from other web pages such as this [example](https://example.com/) here.
 
 ```bash
-example guides
+example guides (if you integrate it into a bash, others can copy this statement)
 ```
 => Listing some specific steps to guarantee a perfect guidance. 
 ```
