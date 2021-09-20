@@ -5,16 +5,26 @@
 => Use "Windows" + "." to add emojis to your title
 
 => The third symbol from right on top (with a magnifier symbol) in VSC shows you the preview
+=> To generatre extra spacing: Take a look at  ((( MARKDOWN CHEATSHEET )))
 
-## Installation
+## Installation ✅
 *** 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+=> Use external sites to refer on informations you got from other web pages such as this [example](https://example.com/) here.
 
 ```bash
-pip install foobar
+example guide
 ```
+=> Listing some specific steps to guarantee a perfect guidance. 
+```
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
+```
+=> Side information: To use the application in a special environment use ```lorem ipsum``` to start.
+If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a ```Requirements``` subsection.
 
-## Usage
+## Usage ✅
 
 ```python
 import foobar
@@ -43,40 +53,29 @@ Please make sure to update tests as appropriate.
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 
-### General Info
+### General Info and Visuals ✅
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
+=> Write down the general informations of your project. Furthermore you are always welcome to add screenshots, videos or other visual elements for a better understanding 
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 
-## Technologies
+## Technologies ✅
 ***
-A list of technologies used within the project:
+ => Add a list of technologies used within the project:
 * [Technologie name](https://example.com): Version 12.3 
 * [Technologie name](https://example.com): Version 2.34
 * [Library name](https://example.com): Version 1234
 
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
 
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
 
-## FAQs
+
+## Collaboration ✅
 ***
-A list of frequently asked questions
+=> Give instructions on how to collaborate with your project.
+> A perfect opportunity is to use quotes like these.
+
+## FAQs ✅
+***
+=> A list of frequently asked questions
 1. **This is a question in bold**
 Answer of the first question with _italic words_. 
 2. __Second question in bold__ 
