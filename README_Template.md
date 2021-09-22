@@ -1,15 +1,15 @@
 # Add your Title here ✅
-***
 => Choose a self-explaining name for your project and add a little description
 
 => Use "Windows" + "." to add emojis to your title
 
 => The third symbol from right on top (with a magnifier symbol) in VSC shows you the preview
 
-=> To generate extra spacing: Take a look at  ((( MARKDOWN CHEATSHEET )))
+=> If you want to know more about design Elements of a README: [MARKDOWN CHEAT SHEET](https://www.markdownguide.org/cheat-sheet/)
 
 
 ## Installation ✅
+***
  
 => Use external sites to refer on informations you got from other web pages such as this [example](https://example.com/) here.
 
