@@ -1,3 +1,4 @@
+***
 # Add your Title here ✅
 => Choose a self-explaining name for your project and add a little description
 
@@ -7,11 +8,20 @@
 
 => If you want to know more about design Elements of a README: [MARKDOWN CHEAT SHEET](https://www.markdownguide.org/cheat-sheet/)
 
+## Style Elements ✅🎨
+---
+=> Colour up your text with <span style="color:red">THIS</span>
+
+=> Use different fonts such as <span style="font-family:Papyrus; font-size:1em;">THIS</span>
+
+=> More than TWO SPACE CHARACTERS will create a: 
+
+word wrap!
 
 ## Installation ✅
 ***
  
-=> Use external sites to refer on informations you got from other web pages such as this [example](https://example.com/) here.
+=> Use external sites to refer on informations you got from other web pages such as this [example here.](https://example.com/)
 
 ```bash
 example guides (if you integrate it into a bash, others can copy this statement)
@@ -23,51 +33,74 @@ $ cd ../path/to/the/file
 $ npm install
 $ npm start
 ```
-=> Side information: To use the application in a special environment use ```lorem ipsum``` to start.
-If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a ```Requirements``` subsection.
+=> If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a ```Requirements``` subsection.
 
-## Usage ✅
+## Code and Syntax highlighting ✅
 
+=> Blocks of code are fenced by lines with three back-ticks. Either you fence a word to highlight it, you fence a whole block of words or you go all in: Fence the desired part and add the suitable language to highlight it the best way as possible:
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
 ```python
-import foobar
+s = "Python syntax highlighting"
+print s
+```
+```python
+import dogbar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+dogbar.pluralize('shiba') # returns 'shibas'
+dogbar.singularize('akitas') # returns 'akita'
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+=> You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
-Please make sure to update tests as appropriate.
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+
+## Contributing
+***
+=> Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Therefore we can talk about an "issue template", but hopefully that's not necessary. * Smiles *
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) 🟢✔
 
 
 ***
 ***
 
 ## Table of Contents
-1. [General Info](#general-info)
+=> A typical "Inhaltsverzeichnis"
+1. [General Info and Visuals](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 
-### General Info and Visuals ✅
+## General Info and Visuals ✅
 ***
-=> Write down the general informations of your project. Furthermore you are always welcome to add screenshots, videos or other visual elements for a better understanding 
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+=> Write down the general informations of your project. Furthermore you are always welcome to add screenshots, videos or other visual elements for a better understanding:
+![Image text](https://icon-library.com/images/shiba-inu-icon/shiba-inu-icon-21.jpg "This is a cute Shiba. Hug him!")
 
 ## Technologies ✅
 ***
  => Add a list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-
-
+* [Technologie name](https://example.com): Version 1.0
+* [Technologie name](https://example.com): Version 1.1
+* [Library name](https://example.com): Version whatever
 
 
 ## Collaboration ✅
@@ -75,20 +108,25 @@ Please make sure to update tests as appropriate.
 => Give instructions on how to collaborate with your project.
 > A perfect opportunity is to use quotes like these.
 
+> Or another one if you wish.
+
 ## FAQs ✅
 ***
 => A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
+1. **This is a question in bold:**
+Answer of the first question with: _italic words_. 
+2. __Second question in bold:__ 
 To answer this question we use an unordered list:
 * First point
 * Second Point
 * Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
+3. **Third question in bold:**
+Answer of the third question with: *italic words*.
 4. **Fourth question in bold**
 
 | Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
 |:--------------|:-------------:|--------------:|
 | text-align left | text-align center | text-align right |
+
+
+
