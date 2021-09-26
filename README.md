@@ -2,7 +2,7 @@
 # Add your Title here ✅
 => Choose a self-explaining name for your project and add a little description
 
-=> Use "Windows" + "." to add emojis to your title
+=> Use "Windows" + "." to add emojis to your title 👌😊
 
 => The third symbol from right on top (with a magnifier symbol) in VSC shows you the preview
 
@@ -122,6 +122,10 @@ Therefore we can talk about an "issue template", but hopefully that's not necess
 => Write down the general informations of your project. Furthermore you are always welcome to add screenshots, videos or other visual elements for a better understanding:
 ![Image text](https://icon-library.com/images/shiba-inu-icon/shiba-inu-icon-21.jpg "This is a cute Shiba. Hug him!")
 
+<br />
+<br />
+
+***
 ## Technologies ✅
 ***
  => Add a list of technologies used within the project:
@@ -129,7 +133,10 @@ Therefore we can talk about an "issue template", but hopefully that's not necess
 * [Technologie name](https://example.com): Version 1.1
 * [Library name](https://example.com): Version whatever
 
+<br />
+<br />
 
+***
 ## Collaboration ✅
 ***
 => Give instructions on how to collaborate with your project.
@@ -137,6 +144,10 @@ Therefore we can talk about an "issue template", but hopefully that's not necess
 
 > Or another one if you wish.
 
+<br />
+<br />
+
+***
 ## FAQs ✅
 ***
 => A list of frequently asked questions
