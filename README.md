@@ -8,6 +8,10 @@
 
 => If you want to know more about design Elements of a README: [MARKDOWN CHEAT SHEET](https://www.markdownguide.org/cheat-sheet/)
 
+<br />
+<br />
+
+***
 ## Style Elements ✅🎨
 ---
 => Colour up your text with <span style="color:red">THIS</span>
@@ -18,6 +22,12 @@
 
 word wrap!
 
+=> Use these brakes to generate SPACING: ```<br />```
+<br />
+<br />
+<br />
+
+***
 ## Installation ✅
 ***
  
@@ -35,8 +45,12 @@ $ npm start
 ```
 => If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a ```Requirements``` subsection.
 
-## Code and Syntax highlighting ✅
+<br />
+<br />
 
+***
+## Code and Syntax highlighting ✅
+***
 => Blocks of code are fenced by lines with three back-ticks. Either you fence a word to highlight it, you fence a whole block of words or you go all in: Fence the desired part and add the suitable language to highlight it the best way as possible:
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -69,20 +83,29 @@ But let's throw in a <b>tag</b>.
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+<br />
+<br />
 
+***
 ## Contributing
 ***
 => Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Therefore we can talk about an "issue template", but hopefully that's not necessary. * Smiles *
 
+<br />
+<br />
+
+***
 ## License
+***
 [MIT](https://choosealicense.com/licenses/mit/) 🟢✔
 
+<br />
+<br />
 
 ***
-***
-
 ## Table of Contents
+***
 => A typical "Inhaltsverzeichnis"
 1. [General Info and Visuals](#general-info)
 2. [Technologies](#technologies)
@@ -90,6 +113,10 @@ Therefore we can talk about an "issue template", but hopefully that's not necess
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 
+<br />
+<br />
+
+***
 ## General Info and Visuals ✅
 ***
 => Write down the general informations of your project. Furthermore you are always welcome to add screenshots, videos or other visual elements for a better understanding:
