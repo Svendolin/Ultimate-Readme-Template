@@ -123,7 +123,9 @@ Therefore we can talk about an "issue template", but hopefully that's not necess
 ## General Info and Visuals ✅
 ***
 => Write down the general informations of your project. Furthermore you are always welcome to add screenshots, videos or other visual elements for a better understanding:
-![Image text](https://icon-library.com/images/shiba-inu-icon/shiba-inu-icon-21.jpg "This is a cute Shiba. Hug him!")
+
+<img align="center" alt="This is a cute Shiba! Hug him!" width="800" height="" src="https://icon-library.com/images/shiba-inu-icon/shiba-inu-icon-21.jpg" />
+
 
 <br />
 <br />
